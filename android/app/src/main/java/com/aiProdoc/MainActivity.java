@@ -1,4 +1,4 @@
-package com.vov;
+package com.aiProdoc;
 
 import android.os.Bundle;
 
@@ -13,7 +13,7 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        return "VoV";
+        return "AiProdoc";
     }
 
     @Override
