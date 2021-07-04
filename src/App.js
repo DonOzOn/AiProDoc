@@ -13,6 +13,7 @@ import { useColorScheme } from 'react-native';
 enableScreens();
 
 function App() {
+  console.log('vao day')
   const scheme = useColorScheme();
   // create our store
   const store = createStore()
